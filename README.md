@@ -40,7 +40,7 @@ Evolved into **IaCDOG** — Terraform visualization dashboard (D3.js + Go) with 
 
 ### NAS Device Vulnerability Research (2024–2025)
 
-Discovered 7 vulnerabilities in commercial NAS devices; all assigned KVE IDs by KISA, currently under final review (max CVSS 9.8). Performed ARM binary analysis with IDA Pro; developed PoC exploits and completed responsible disclosure.
+Discovered 4 vulnerabilities in commercial NAS devices, all assigned KVE IDs by KISA (KVE-2026-0116, -0271, -0272, -0275; max CVSS 9.8). Performed ARM binary analysis with IDA Pro; developed PoC exploits and completed responsible disclosure.
 
 ### Yorkie — Open Source CRDT Server
 **OSSCA (2024)**
