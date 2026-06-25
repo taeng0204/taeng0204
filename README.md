@@ -23,6 +23,13 @@ Outperformed Adaptive Random Forest in 10 of 12 drift scenarios (G-mean +8.6–3
 
 > [suda](https://github.com/taeng0204/suda-public)
 
+### CyBiasBench — LLM Agent Cyber Attack Bias Benchmark
+**Trustworthy AI Lab, CAU (2026–)** · PI: Prof. Hoki Kim · First author (ongoing)
+
+A benchmark for measuring model- and agent-level bias in how LLM agents select attack strategies within adversarial web environments. Designed the isolated experiment environment, the automated evaluation pipeline, and a literature-grounded prompt suite; quantified strategy bias with statistical measures (Shannon entropy, HHI, Jensen–Shannon divergence).
+
+> [CyBiasBench](https://trustworthyai.co.kr/CyBiasBench/)
+
 ---
 
 ## Building
